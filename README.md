@@ -6,3 +6,4 @@
 |  Alessandro Felix (Manufactura Aditiva)|
 | Macricielo Tello (Prototipado Electrónico)|
 |    Daniel Choquehuanca (Diseño Electrónico) |
+Rol Coordinador General: Este rol consta de la planificación y coordinación de los trabajos que se encarguen al equipo de manera que se cumplan de manera eficiente manteniendo una buena gestión y comunicación entre los integrantes del equipo.
